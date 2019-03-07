@@ -1,1 +1,8 @@
 Help → Install New Software → Add repository from location: http://download.eclipse.org/egit/updates/
+
+Select all, click next, agree to the license terms, and install
+After restarting the Eclipse, add Git perspective.
+
+now you need to share your project in the github.
+
+1. right click on the project --> Team --> share project
