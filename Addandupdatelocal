@@ -1,0 +1,10 @@
+1. File --> import --> Project from Git
+2. click next
+3. select clone uri
+4. enter the uri "https://github.com/wilsonshamim/gitTutorial.git". It will autometically fill host and repo path.
+5. enter user and password
+6. Select the branch/ master
+7. local destination option will appear. 
+8. Enter the repositry name.
+9. you can either import an existing eclipse project, import using new project wizard or general project
+10. finish.
