@@ -6,3 +6,12 @@ After restarting the Eclipse, add Git perspective.
 now you need to share your project in the github.
 
 1. right click on the project --> Team --> share project
+2. create a repositry.
+3. then click on commit.
+4. click on ++ to stage all your changes.
+5. enter commit message. 
+6. enter your aurther and commiter and click on commit and push
+
+
+
+
